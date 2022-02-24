@@ -1509,6 +1509,13 @@ amdefine@>=0.0.4:
   resolved "https://registry.yarnpkg.com/amdefine/-/amdefine-1.0.1.tgz#4a5282ac164729e93619bcfd3ad151f817ce91f5"
   integrity sha1-SlKCrBZHKek2Gbz9OtFR+BfOkfU=
 
+angular-google-tag-manager@1.4.4:
+  version "1.4.4"
+  resolved "https://registry.yarnpkg.com/angular-google-tag-manager/-/angular-google-tag-manager-1.4.4.tgz#2bc34f1d15618bbab9834ac58e5da213228b9bea"
+  integrity sha512-m2pjj3hBQ6IcreQsqtx0BRUYKvP0KM4E1ElnxMAvYZuhQT3Q+xzTGswjnWYPrQGyOozVtLJlYn7HZVSGr3dU7w==
+  dependencies:
+    tslib "^2.3.0"
+
 ansi-colors@4.1.1:
   version "4.1.1"
   resolved "https://registry.npmjs.org/ansi-colors/-/ansi-colors-4.1.1.tgz"
@@ -8947,7 +8954,7 @@ tslib@^1.10.0, tslib@^1.13.0, tslib@^1.8.1, tslib@^1.9.0:
   resolved "https://registry.npmjs.org/tslib/-/tslib-1.14.1.tgz"
   integrity sha512-Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg==
 
-tslib@^2.0.0:
+tslib@^2.0.0, tslib@^2.3.0:
   version "2.3.1"
   resolved "https://registry.npmjs.org/tslib/-/tslib-2.3.1.tgz"
   integrity sha512-77EbyPPpMz+FRFRuAFlWMtmgUWGe9UOG2Z25NqCwiIjRhOf5iKGuzSe5P2w1laq+FkRy4p+PCuVkJSGkzTEKVw==
